@@ -53,5 +53,12 @@
   <a href="#">
     <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black" />
   </a>&nbsp;&nbsp;
-  
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/dmssantos/dmssantos"></a>
 </p>
