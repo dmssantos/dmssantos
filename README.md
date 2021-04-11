@@ -21,13 +21,51 @@
   <a href="#"><img src="" width="350"> Github status</a>
 </p>
 
+<h3 align='center'>
+  Languages and Tools:
+</h3>
 
-## Languages and Tools:
-![image](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![image](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![image](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![image](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+<p align='center'>
+  <a href="#">
+    <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
+  </a>&nbsp;&nbsp;
+  
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-##
 
-### 📺 Latest YouTube Videos
+Git
+#F05032
+
+GitHub
+#181717
+
+HTML5
+#E34F26
+
+CSS3
+#1572B6
+
+JavaScript
+#F7DF1E
+
+
+
+
+https://img.shields.io/badge/{FIRST}-{SECONDARY}-{HEX-COLOR}?style=for-the-badge&logo={ICON}&logoColor=white
