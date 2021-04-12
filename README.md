@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/david-santos-412902161/" target="_blank">
+  <a href="https://www.linkedin.com/in/david-santos-412902161/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/devcode21/">
@@ -17,7 +17,7 @@
 &nbsp;
 
 <p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api?username=dmssantos&count_private=true&show_icons=true&theme=highcontrast" />
   </a>
 </p>
