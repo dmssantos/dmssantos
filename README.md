@@ -16,9 +16,10 @@
   </a>&nbsp;&nbsp;
   
 </p>
-
 <p align='center'>
-  <a href="#"><img src="" width="350"> Github status</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+   <img src="https://github-readme-stats.vercel.app/api?username=dmssantos&count_private=true&show_icons=true&theme=highcontrast" />
+  </a>
 </p>
 
 <h3 align='center'>
