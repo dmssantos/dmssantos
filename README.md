@@ -7,20 +7,21 @@
 </p>
 
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/david-santos-412902161/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/devcode21/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
+&nbsp;
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
    <img src="https://github-readme-stats.vercel.app/api?username=dmssantos&count_private=true&show_icons=true&theme=highcontrast" />
   </a>
 </p>
+
+&nbsp;
 
 <h3 align='center'>
   Languages and Tools:
@@ -54,6 +55,12 @@
   <a href="#">
     <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=React&logoColor=black" />
   </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmssantos" />
+  </a>
 </p>
 
 <p align='center'>
