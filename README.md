@@ -15,6 +15,7 @@
   </a>&nbsp;&nbsp;
 </p>
 &nbsp;
+
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
    <img src="https://github-readme-stats.vercel.app/api?username=dmssantos&count_private=true&show_icons=true&theme=highcontrast" />
@@ -40,9 +41,11 @@
   <a href="#">
     <img src="https://img.shields.io/badge/GIT-F05032?logo=Git&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="#">
+   <a href="#">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white" />
   </a>&nbsp;&nbsp;
+ </p>
+ <p align='center'>
   <a href="#">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -57,11 +60,15 @@
   </a>&nbsp;&nbsp;
 </p>
 
+&nbsp;
+
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmssantos" />
   </a>
 </p>
+
+
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:dms.santos_@hotmail.com'>dms.santos_@hotmail.com</a>
