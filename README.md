@@ -29,52 +29,19 @@
 </h3>
 
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" alt="codepen" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40"/>
-</p>
-
-
-<p align='center'>
-  <a href="#">
-    <img src="https://img.shields.io/badge/WINDOWS-0078D6?logo=Windows&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/LINUX-FCC624?logo=Linux&logoColor=black" />
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visual%20studio%20code&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/GIT-F05032?logo=Git&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a href="#">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white" />
-  </a>&nbsp;&nbsp;
- </p>
- <p align='center'>
-  <a href="#">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black" />
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=React&logoColor=black" />
-  </a>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" alt="codepen" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40"/>&nbsp;&nbsp;
 </p>
 
 &nbsp;
