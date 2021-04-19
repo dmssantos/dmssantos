@@ -24,9 +24,11 @@
 
 &nbsp;
 
-<h3 align='center'>
+<h3 align="center">
   Languages and Tools:
 </h3>
+
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
 
 <p align='center'>
   <a href="#">
