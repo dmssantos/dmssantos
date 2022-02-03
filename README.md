@@ -24,27 +24,21 @@
 
 &nbsp;
 
-<h3 align="center">
-  Languages and Tools:
-</h3>
+## 🛠 &nbsp;Tech Stack
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50" />&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" alt="codepen" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50"/>&nbsp;&nbsp;
-</p>
+### 🎨 &nbsp;Front-end
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+
+### 👩‍💻 &nbsp;Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
+### ⚡ &nbsp;Database 
+![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 &nbsp;
 
